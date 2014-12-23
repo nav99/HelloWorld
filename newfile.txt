@@ -1,0 +1,3 @@
+this is second file 
+for insert some changes 
+for adding and commiting
